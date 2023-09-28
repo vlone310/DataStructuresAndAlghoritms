@@ -8,26 +8,26 @@
 ## Topics Overview
 
 ### Algorithmic Complexity Analysis
-- [] Big O Notation
-  - [] Time Complexity
-  - [] Space Complexity
+- [ ] Big O Notation
+  - [ ] Time Complexity
+  - [ ] Space Complexity
 
 ### Data Structures
-- [] Trees
-- [] Graphs
-- [] Hash Tables
-- [] Linked Lists
-- [] Arrays/Stacks/Queues
+- [ ] Trees
+- [ ] Graphs
+- [ ] Hash Tables
+- [ ] Linked Lists
+- [ ] Arrays/Stacks/Queues
 
 ### Algorithms
-- [] Comparison Sorting
-  - [] *Merge Sort*
-  - [] *Quicksort*
-- [] Searching
-  - [] Linear & Binary Search
-  - [] BFS & DFS
-- [] Recursion
-- [] Dynamic Programming
+- [ ] Comparison Sorting
+  - [ ] *Merge Sort*
+  - [ ] *Quicksort*
+- [ ] Searching
+  - [ ] Linear & Binary Search
+  - [ ] BFS & DFS
+- [ ] Recursion
+- [ ] Dynamic Programming
 
 ## Resources
 - [Roadmap: Core Data Structures & Algorithms](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link "Course and Mindmap by Andrei Neagoie")
