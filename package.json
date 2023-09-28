@@ -1,0 +1,22 @@
+{
+  "name": "data_structures_and_alghoritms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlone310/DataStructuresAndAlghoritms.git"
+  },
+  "author": "vlone310",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlone310/DataStructuresAndAlghoritms/issues"
+  },
+  "homepage": "https://github.com/vlone310/DataStructuresAndAlghoritms#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
